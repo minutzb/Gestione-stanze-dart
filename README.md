@@ -1,5 +1,10 @@
-# Gestione-stanze-dart
+# Roomly-Gestore-Spazi-Comuni
 
-
-#### [[https://prod.liveshare.vsengsaas.visualstudio.com/join?53F6E48F5EF86AE18DBDD20E1932AD89DB30](https://prod.liveshare.vsengsaas.visualstudio.com/join?12048D806A423BE53C1307890E9EF22A46CA)
-](https://prod.liveshare.vsengsaas.visualstudio.com/join?3BC35B429853FF1700FA79BC4C1FB722C6C8)
+**1. OBBIETTIVO**
+----------------------------------------------------------------------------------------
+Abbiamo idealizzato questo progetto per gestire spazi comuni all'interno di posti di lavoro come ad esempio uffici o biblioteche, 
+l'obbiettivo principale del sito è quello di mostrare all'utente quali sono le stanze libere all'interno dell'ufficio così da 
+permettere l'eventuale prenotazione oppure, la visione degli eventi in corso all'interno della stanza (es. riunioni).
+----------------------------------------------------------------------------------------
+**2. INDEX**
+----------------------------------------------------------------------------------------
