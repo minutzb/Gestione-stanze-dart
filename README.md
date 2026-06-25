@@ -17,6 +17,6 @@
 ##### controllo dell'account sono gestiti tramite **4 bottoni principali**, ognuno con una funzione distinta:
 ##### -**Registrati (`Registrati`):** Reindirizza l'utente alla pagina di iscrizione. Permette la creazione di un nuovo account all'interno del sistema inserendo le credenziali necessarie ovvero: un nome utente o una email, una password e infine la data di nascita dell'utente, in quanto per legge non può avere meno di 14 anni per accedere al sito web. questa registrazione può essere effettuata anche con l'API di Google utilizzando il proprio account google.
 ##### -**Accedi (`Accedi`):** Permette agli utenti già registrati di effettuare il login in modo sicuro per accedere alle funzioni di prenotazione avanzate che offre il nostro sito, utilizzando il nome utente o email e la password creati in precedenza oppure l'account google con cui l'utente si è registrato
-##### -**Funzionalità (In alto a destra):** Una sezione informativa dedicata a illustrare nel dettaglio cosa offre la piattaforma e come ottimizza la gestione delle ##### sale.
+##### -**Funzionalità (In alto a destra):** Una sezione informativa dedicata a illustrare nel dettaglio cosa offre la piattaforma e come ottimizza la gestione delle sale.
 ##### -**Chi Siamo (In alto a destra):** Pagina di presentazione del team di sviluppo (Developer) e del background dietro la nascita del progetto.
 ----------------------------------------------------------------------------------------
